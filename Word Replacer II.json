@@ -1,0 +1,334 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "e",
+      "repB": "🟢🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "t",
+      "repB": "🟢🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "a",
+      "repB": "🔵🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "o",
+      "repB": "🔵🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "i",
+      "repB": "🟢🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "n",
+      "repB": "🔵🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "s",
+      "repB": "🟡🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "h",
+      "repB": "🟡🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "r",
+      "repB": "🟡🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "d",
+      "repB": "🟢🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "l",
+      "repB": "🔵🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "c",
+      "repB": "🟡🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "u",
+      "repB": "🟤🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "m",
+      "repB": "🟤🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "w",
+      "repB": "🟤🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "f",
+      "repB": "🟤🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "g",
+      "repB": "🟢🟧",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "y",
+      "repB": "🔵🟧",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "p",
+      "repB": "🟡🟧",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "b",
+      "repB": "🟤🟧",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "v",
+      "repB": "🟠🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "k",
+      "repB": "🟠🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "j",
+      "repB": "🟠🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "x",
+      "repB": "🟠🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "q",
+      "repB": "🟠🟧",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "z",
+      "repB": "🟢🟪",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "0",
+      "repB": "🟢🟥",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "1",
+      "repB": "🔵🟥",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "2",
+      "repB": "🟡🟥",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "3",
+      "repB": "🟤🟥",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "4",
+      "repB": "🟠🟥",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "5",
+      "repB": "🟣🟥",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "6",
+      "repB": "🔴🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "7",
+      "repB": "🔴🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "8",
+      "repB": "🔴🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "9",
+      "repB": "🔴🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": ".",
+      "repB": "🔵🟪",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": ",",
+      "repB": "🟡🟪",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "'",
+      "repB": "🟤🟪",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "\"",
+      "repB": "🟠🟪",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "-",
+      "repB": "🟣🟩",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": ":",
+      "repB": "🟣🟦",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "?",
+      "repB": "🟣🟨",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "!",
+      "repB": "🟣🟫",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "(",
+      "repB": "🟣🟧",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": ")",
+      "repB": "🟣🟪",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": " ",
+      "repB": "⚪⬜",
+      "type": "Simple"
+    }
+  ]
+}
